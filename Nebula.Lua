@@ -11,7 +11,7 @@ local Player = Players.LocalPlayer
 local WHITELIST = {
     "MeisterErwin",
     "felyrun",
-    "JUSTsigma2crazy"
+    "JUSTsigma2razy"
 }
 
 local allowed = false
